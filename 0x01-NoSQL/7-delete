@@ -1,0 +1,4 @@
+// Delete by match
+db.school.deletemany(
+	{ name: "Holberton school" }
+)
