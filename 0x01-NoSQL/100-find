@@ -1,0 +1,2 @@
+// Regex filetr
+db.school.find({name: /^Holberton/ })
